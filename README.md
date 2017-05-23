@@ -1,3 +1,5 @@
+## This project is my Angular playground built on the tutorial application described below
+
 # AngularJS Phone Catalog Tutorial Application
 
 
